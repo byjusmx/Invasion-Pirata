@@ -1,2 +1,2 @@
 # InvasiónPirata
-juego de invasión pirata
+Juego de invasión pirata
